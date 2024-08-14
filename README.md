@@ -48,3 +48,4 @@ It is expected that a safer override motor button will be developed, which is bi
 ---
 
 ## References
+[Jackal user manual](https://docs.clearpathrobotics.com/docs/robots/outdoor_robots/jackal/user_manual_jackal/)
