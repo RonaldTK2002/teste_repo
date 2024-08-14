@@ -36,10 +36,12 @@ Four Lithium-ion batteries labeled from \#1 to \#4 are available for use with so
 
 ### Robot
 
-A general test of the robot was conducted, checking the Human-Machine Interface indicators and buttons. A teleoperated ride was also conducted, ensuring that the motors and MCU are operating correctly. Some observations are listed below:
+A general test of the robot was conducted, checking the [Human-Machine Interface](#human-machine-interface) indicators and buttons. A teleoperated ride was also conducted, ensuring that the motors and MCU are operating correctly. Some observations are listed below:
 
 - It was expected to find an override button; however, the Motor Stop Button implemented on Jackal's interface should not be the only safety option to stop the robot due to the difficulty of reaching it while the robot is moving.
 - Jackal can reach high speeds, so every test ride should be conducted in clear areas and with a safe human-robot distance.
+
+### Human-Machine-Interface
 
 ## Conclusion
 
