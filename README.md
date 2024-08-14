@@ -1,5 +1,4 @@
-# Technical Report  
-## Jackal Operations
+# Jackal Operations
 
 ### Ronaldo Dutra, Camila Chagas, Vitor Ortega, and Manuela Moura
 
